@@ -2,6 +2,14 @@
 
 Consensus ("average") Raman spectra built from authentic milk samples and used as a reference to detect adulterated milk.
 
+## Background
+
+Milk adulteration, with substances such as antibiotics, urea, water, starch or vegetable oil, is a food-safety concern that calls for rapid, non-destructive screening. This project uses Raman spectroscopy to build consensus ("average") spectra from authentic milk samples, which serve as a reference fingerprint. Samples are then assessed by how far their spectra deviate from this reference, with the aim of distinguishing authentic milk from adulterated milk.
+
+This work was carried out in the Utpal Tatu Lab at the Indian Institute of Science (IISc), Bengaluru.
+
+**Collaborators:** Amay Kashyap Deka, Dr. HC Sudeeksha and Prof. Utpal Tatu
+
 ## Repository structure
 
 ```
